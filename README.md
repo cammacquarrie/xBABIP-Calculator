@@ -10,3 +10,6 @@ Batters stats:
 2) Shift Balls in Play
 3) Pull% on GB while Shifted
 
+To run:
+from root folder run
+"$python project.py"
